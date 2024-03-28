@@ -38,7 +38,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 Currently working on `Something Intresting`.
 
-- 🌱 2 Years + Experienced `MERN Stack` Developer
+- 🌱 3 Years + Experienced `MERN Stack` Developer
 
 - 👯 Available for collaboration 
 
